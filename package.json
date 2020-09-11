@@ -1,6 +1,6 @@
 {
   "name": "perch_api",
-  "version": "v1",
+  "version": "1.0.0",
   "description": "Interactive_documentation_functionality_is_incomplete_and_may_not_work_as_expected__We_recommend_you_connect_with_a_REST_client_such_as_Postman_Httpie_or_even_plan_old_CURL__Obtain_your_API_username_password_and_key_from_your_a_hrefhttpsapp_perchsecurity_comusergroups_targetblankgroup_settingsa_brh4Root_URLh4table_classparameters_table_table_bordered_table_stripedtrtdBase_URLtdtdhttpsapi_perch_rockstdtrtrtdVersiontdtdv1tdtrtable_brh4Headersh4table_classparameters_table_table_bordered_table_stripedtrtdx_api_keytdtd_your_api_key_from_the_group_settings_pagetdtrtrtdAuthorizationtdtdBearer__your_access_token_returned_from_authaccess_tokentdtrtable",
   "license": "Unlicense",
   "main": "src/index.js",
